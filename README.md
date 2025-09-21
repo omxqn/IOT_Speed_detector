@@ -26,7 +26,8 @@ An ESP32-based **car speed detection system** using an **HB100 Doppler radar**, 
   - Runs a Wi-Fi **Access Point** (SSID: `ESP32-Speed`)  
   - Live status view with **auto-refresh** every 1s  
   - Interactive buttons: `Trigger` and `Stop`  
-
+  - Accessible via **http://192.168.4.1** 🌍
+  - 
 - 🖥 **Serial Command Control**  
   - `TRIGGER` / `T` → activate relay + sound  
   - `STOP` / `S` → stop relay + sound  
